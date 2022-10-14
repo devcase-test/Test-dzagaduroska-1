@@ -1,1 +1,1 @@
-# Test-dzagaduroska-1
+Dummy template
